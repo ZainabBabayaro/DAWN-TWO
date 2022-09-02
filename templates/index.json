@@ -186,6 +186,42 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "16621319791ef2d71d": {
+      "type": "collection-list",
+      "blocks": {
+        "1662131979dd98d7ad-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tables"
+          }
+        },
+        "1662131979dd98d7ad-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "summer"
+          }
+        },
+        "1662131979dd98d7ad-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "men"
+          }
+        }
+      },
+      "block_order": [
+        "1662131979dd98d7ad-0",
+        "1662131979dd98d7ad-1",
+        "1662131979dd98d7ad-2"
+      ],
+      "settings": {
+        "title": "Collections",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
@@ -194,6 +230,7 @@
     "featured_products",
     "collage",
     "video",
-    "multi_column"
+    "multi_column",
+    "16621319791ef2d71d"
   ]
 }
