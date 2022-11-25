@@ -9,6 +9,9 @@
     {{ page.title | escape }}
   </h1>
   <div class="rte">
+    {% if page.title=='about' %}
+      The page title is about...
+    {% endif %}
     {{ page.content }}
   </div>
 </div>
